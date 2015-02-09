@@ -1,2 +1,2 @@
 # Perceptron-Learning
-A collection of Perceptron Learning algorithms.
+A module for Perceptrons, using a basic approach with more options, allowing it to extend to a MSE approach.
